@@ -14,6 +14,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Open-Standard](https://img.shields.io/badge/Reference-Open%20Standard-blue)
 
+![SRI Verify](https://github.com/OMPSHUNYAYA/SRI/actions/workflows/sri-verify.yml/badge.svg)
+
 ---
 
 > **A 606-byte deterministic kernel that demonstrates intelligence admissibility can exist before AI execution begins.**
