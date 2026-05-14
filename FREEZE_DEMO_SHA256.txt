@@ -1,7 +1,0 @@
-SRI — Hash Freeze (SHA256)
-
-demo\sri_kernel.py
-SHA256: f0129b32c3094bfa6552d0fa4f3c7fc2e5f313899a513731d2b29e48d3f11818
-
-same file -> same hash
-different file -> different hash
