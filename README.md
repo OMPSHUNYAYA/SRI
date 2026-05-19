@@ -723,6 +723,7 @@ It does not change the structural principle.
 - [FAQ](docs/FAQ.md)
 - [Proof Sketch](docs/Proof-Sketch.md)
 - [SRI Architecture Notes](docs/SRI-Architecture-Notes.md)
+- [SRI Framework Document](docs/SRI_v1.1.pdf)  
 - [SRI Concept Diagram](docs/Structural-Resolution-Intelligence-Diagram.png)
 - [AI Evolution — From Complexity to Structure](docs/AI-Evolution-From-Complexity-To-Structure.png)
 - [Dependency Elimination Framework](docs/Dependency-Elimination-Framework.png)
